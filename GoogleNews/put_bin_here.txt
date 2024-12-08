@@ -1,0 +1,1 @@
+put GoogleNews-vectors-negative300.bin in this folder
